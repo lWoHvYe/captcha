@@ -1,4 +1,4 @@
-open module captcha {
+open module captcha.core {
     requires java.desktop;
     requires org.slf4j;
 
